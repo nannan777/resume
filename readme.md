@@ -9,3 +9,7 @@ It's my spirit animal!
 - [Nanjing Tech University](http://www.njtech.edu.cn)
 - [Columbia University](https://www.columbia.edu)
 
+## Research Interest
+
+My research interest is about environmental data analysis to do LCA and TEA in carbon nagative solutions.
+
